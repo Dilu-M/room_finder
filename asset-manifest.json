@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/room_finder/static/css/main.d836ea2f.chunk.css",
+    "main.js": "/room_finder/static/js/main.09e1df28.chunk.js",
+    "main.js.map": "/room_finder/static/js/main.09e1df28.chunk.js.map",
+    "runtime-main.js": "/room_finder/static/js/runtime-main.ff2e4203.js",
+    "runtime-main.js.map": "/room_finder/static/js/runtime-main.ff2e4203.js.map",
+    "static/js/2.021cdabd.chunk.js": "/room_finder/static/js/2.021cdabd.chunk.js",
+    "static/js/2.021cdabd.chunk.js.map": "/room_finder/static/js/2.021cdabd.chunk.js.map",
+    "static/js/3.08adb793.chunk.js": "/room_finder/static/js/3.08adb793.chunk.js",
+    "static/js/3.08adb793.chunk.js.map": "/room_finder/static/js/3.08adb793.chunk.js.map",
+    "index.html": "/room_finder/index.html",
+    "static/css/main.d836ea2f.chunk.css.map": "/room_finder/static/css/main.d836ea2f.chunk.css.map",
+    "static/js/2.021cdabd.chunk.js.LICENSE.txt": "/room_finder/static/js/2.021cdabd.chunk.js.LICENSE.txt",
+    "static/media/logIn.css": "/room_finder/static/media/imglogin.458bfe07.jpg",
+    "static/media/signUp.css": "/room_finder/static/media/imgsignup.f57e6e17.jpg",
+    "static/media/listRoom.css": "/room_finder/static/media/listroom.78d5da03.jpg",
+    "static/media/App.css": "/room_finder/static/media/room finder background image.4acf74a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff2e4203.js",
+    "static/js/2.021cdabd.chunk.js",
+    "static/css/main.d836ea2f.chunk.css",
+    "static/js/main.09e1df28.chunk.js"
+  ]
+}
